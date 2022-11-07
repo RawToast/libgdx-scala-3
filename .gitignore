@@ -1,0 +1,12 @@
+.bsp
+.bloop
+.metals
+
+/target/
+/project/**/target/
+project/**/metals.sbt
+
+/.idea
+/.vscode
+
+/assets/.temp
